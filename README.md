@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 <h3 align="center">I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, DevOps 🖥) depending on what the project requires. I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️.</h3>
 - 🔭 I’m currently working on **DEV101**
 
-<img align="right" alt="GIF" src="https://dribbble.com/shots/17316259-Learn-Programming?utm_source=Clipboard_Shot&utm_campaign=yasinghorust&utm_content=Learn%20Programming&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=yasinghorust&utm_content=Learn%20Programming&utm_medium=Social_Share" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 ### 🧐 More About Me:
-- 🌱 I’m currently learning **Flutter**
-- 📫 &nbsp;How to reach me , you can email me at Studychemistry625@gmail.com
+
+- 🔭 &nbsp; I’m currently learning on **Flutter**
 - 💻 &nbsp;I am actively looking for jobs for the role of SDE.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn]()
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](<link>)
 - 📝 &nbsp; Checkout my [resume](<link>)
-- 📚 &nbsp; When I am free, I draw Sketchs.
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 
 <br>
 <details>
