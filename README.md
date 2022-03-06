@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 - 📝 &nbsp; Checkout my [resume](<link>)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 
+
+
+
+
+
 <br>
 <details>
 <summary><b>🔨 Languages and Tools:</b></summary>
@@ -53,6 +58,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" style="vertical-align:top; margin:4px"/></p>
  </details>
 <br>
+
 
 
 <!-- ### 📊 Github Stats -->
