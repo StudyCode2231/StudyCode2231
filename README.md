@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Supratik Ghosh</h1>
-<h3 align="center">I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, DevOps 🖥) depending on what the project requires. I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️.</h3>
+<h3 align="center">I am a versatilist and easily adapt to 
+  different hats (Full Stack Web Developer 🌐, DevOps 🖥) depending on what the project requires.
+  I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️.  </h3>
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+
 
 ### 🧐 More About Me:
 - 🔭 I’m currently working on **DEV101**
