@@ -18,7 +18,15 @@ Here are some ideas to get you started:
 <h3 align="center">I am a versatilist and easily adapt to 
   different hats (Full Stack Web Developer 🌐, DevOps 🖥) depending on what the project requires.
   I love exploring new tech stack 👨🏻‍💻 and leveraging them to build cool stuffs 🛠️.  </h3>
-
+  
+  
+<p align='center'>
+   <a href="https://www.linkedin.com/in/goelabhishek694/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/goelabhisek"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/goelabhishek694"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/31zq6pcd6stmkcmw5a7xtencs33y"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+ <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+ </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
