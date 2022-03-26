@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
   
 <p align='center'>
-   <a href="https://www.linkedin.com/in/goelabhishek694/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="********/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="**********"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="***********"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="************"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
