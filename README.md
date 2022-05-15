@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 🧐 More About Me:
 - 🔭 I’m currently working on **DEV101**
-- 🔭 &nbsp; I’m currently learning on **Flutter**
+- 🔭 &nbsp; I’m currently learning on **WEB_DEV**
 - 💻 &nbsp;I am actively looking for jobs for the role of SDE.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](<link>)
