@@ -2,13 +2,18 @@
 <h1 align="center">Hi there 👋, I'm Supratik Ghosh</h1>
 <p align="center">Versatile Full Stack Web Developer | DevOps Enthusiast</p>
 
+<!-- Animated GIF -->
+<p align="center">
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="480px"/>
+</p>
+
 <!-- Social Media Links -->
 <p align="center">
-  <a href="********/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="**********"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.svg" alt="Twitter"></a>&nbsp;&nbsp;
-  <a href="***********"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.svg" alt="Dev.to"></a>&nbsp;&nbsp;
-  <a href="************"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.svg" alt="Spotify"></a>&nbsp;&nbsp;
-  <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg" alt="Buy Me a Coffee"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourusername/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/yourusername"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.svg" alt="Twitter"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/yourusername"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.svg" alt="Dev.to"></a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/yourusername"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.svg" alt="Spotify"></a>&nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/yourusername"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg" alt="Buy Me a Coffee"></a>&nbsp;&nbsp;
 </p>
 
 <!-- About Me Section -->
@@ -43,7 +48,7 @@
 </p>
 
 <!-- Closing Section -->
-<p align="center">💼 Seeking opportunities to contribute and learn | 📫 Reach out to me on [LinkedIn](<link>)</p>
+<p align="center">💼 Seeking opportunities to contribute and learn | 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/)</p>
 <p align="center">Made with ❤️ by Supratik Ghosh</p>
 
 <p align="center">
