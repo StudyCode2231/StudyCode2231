@@ -1,56 +1,87 @@
 <!-- Header Section -->
 <h1 align="center">Hi there 👋, I'm Supratik Ghosh</h1>
-<p align="center">Versatile Full Stack Web Developer | DevOps Enthusiast</p>
+<p align="center">Versatile Software Developer | Passionate about Code and Innovation</p>
 
 <!-- Animated Coding GIF -->
 <p align="center">
   <img align="center" alt="Coding GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480px"/>
 </p>
 
-<!-- Social Media Links -->
+<!-- Contact Information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/yourusername"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.svg" alt="Twitter"></a>&nbsp;&nbsp;
-  <a href="https://dev.to/yourusername"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.svg" alt="Dev.to"></a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/yourusername"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.svg" alt="Spotify"></a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/yourusername"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg" alt="Buy Me a Coffee"></a>&nbsp;&nbsp;
+  Phone: 8840-425069 | Email: studychemistry625@gmail.com<br>
+  LinkedIn: [linkedin.com/in/SupratikGhosh](https://www.linkedin.com/in/SupratikGhosh)<br>
+  GitHub: [github.com/SupratikGhosh](https://github.com/SupratikGhosh)
 </p>
 
-<!-- About Me Section -->
-<h3 align="center">About Me</h3>
+<!-- Summary Section -->
+<h3 align="center">Summary</h3>
 <p align="center">
-  🚀 Hi there! I'm Supratik Ghosh, a versatile individual who loves diving into code to create impactful and innovative solutions. My passion for Full Stack Web Development and DevOps fuels my curiosity to explore new technologies and create meaningful projects.
+  Highly motivated and skilled Software Developer with expertise in Python, Java, C#, and web technologies. Experienced in building interactive applications and implementing machine learning solutions to optimize performance. Strong problem-solving abilities and a passion for delivering impactful results.
 </p>
 
-<!-- Tech Stack Section -->
-<h3 align="center">Tech Stack</h3>
+<!-- Skills Section -->
+<h3 align="center">Skills</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript">
-  <!-- Add more tech stack icons here -->
+  Programming Languages: Python, Java, C, C#<br>
+  Web Development: HTML/CSS, JavaScript, AngularJS, React, Bootstrap<br>
+  Technologies: MS Excel, AWS, .NET<br>
+  Developer Tools: Visual Studio 2017+, SQL Server 2012+, Git, Docker<br>
+  Data Science: Data Visualization, Model Stacking, Handling Imbalanced Data, Model Interpretability, Model Deployment
 </p>
 
-<!-- GitHub Stats Section -->
-<h3 align="center">GitHub Stats</h3>
+<!-- Education Section -->
+<h3 align="center">Education</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StudyCode2231&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats">
+  Bachelor of Technology in Electrical Engineering<br>
+  Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha<br>
+  June 2019 – July 2023
 </p>
 
-<!-- Wakatime and Trophies Section -->
+<!-- Experience Section -->
+<h3 align="center">Experience</h3>
 <p align="center">
-  <img src="https://wakatime.com/badge/user/8a7a1dec-69be-4bb1-bdc3-ec2fa0f74050.svg" alt="Wakatime">
-  <img src="https://github-profile-trophy.vercel.app/?username=StudyCode2231&theme=onedark&row=1&column=7" alt="Trophies">
+  Software Development Intern<br>
+  High Radius, Bhubaneswar, India<br>
+  February 2022 – May 2022<br>
+  - Led a cross-functional team in developing interactive applications, optimizing code, and creating an intern portal with Spring Security and Hibernate, achieving 20% performance improvement.
+  - Delivered 50%+ performance gains through meticulous data analysis and machine learning predictions in Python, leveraging organizational and project management skills.
+  - Achieved a remarkable 90% reduction in website load time, enhancing overall performance and improving user experience through effective issue resolution and careful attention to detail.
+  - Technologies & Skills: React.js, Spring Security, Hibernate, Project Management, Team Management, AWS
 </p>
 
-<!-- GitHub Streak Section -->
+<!-- Projects Section -->
+<h3 align="center">Projects</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StudyCode2231&theme=dark" alt="GitHub Streak">
+  1. Dual Axis Solar Tracking System with Weather Sensor | January 2021 – June 2023
+  - Achieved an average energy generation increase of 25% compared to fixed solar panel systems.
+  - Reduced power loss due to sub-optimal panel positioning during unfavorable weather conditions by 30%.
+  - Hardware Specifications: Atmega Micro-controller, Solar Panel, Servo Motor, DC Motor
+  <!-- More projects can be listed here -->
+</p>
+
+<!-- Responsibility & Achievement Section -->
+<h3 align="center">Responsibility & Achievement</h3>
+<p align="center">
+  - Coordinated activities of KIIT Electrical Club, contributing to job design and implementation.
+  - Mentored over 30K students at Coding Ninjas, providing guidance in debugging codes and enhancing problem-solving skills, earning a stellar 4.9 rating from each student.
+  - Collaborated with NGOs to teach basic mathematics to tribal students from 8th to 10th grade on weekends, as part of a college-organized initiative.
+  - Achieved an elite 6-star gold badge on HackerRank, ranking in the top 1% of problem solvers worldwide and showcasing proficiency in solving complex coding challenges with optimal efficiency.
+</p>
+
+<!-- Links Section -->
+<h3 align="center">Links</h3>
+<p align="center">
+  - [GeeksForGeeks](https://www.geeksforgeeks.org/)<br>
+  - [LeetCode](https://leetcode.com/)<br>
+  - [HackerRank](https://www.hackerrank.com/)
 </p>
 
 <!-- Closing Section -->
-<p align="center">💼 Seeking opportunities to contribute and learn | 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/)</p>
+<p align="center">💼 Actively seeking software development opportunities | 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/SupratikGhosh)</p>
 <p align="center">Made with ❤️ by Supratik Ghosh</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Bottom">
 </p>
+
