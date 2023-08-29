@@ -2,9 +2,9 @@
 <h1 align="center">Hi there 👋, I'm Supratik Ghosh</h1>
 <p align="center">Versatile Full Stack Web Developer | DevOps Enthusiast</p>
 
-<!-- Animated GIF -->
+<!-- Animated Coding GIF -->
 <p align="center">
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="480px"/>
+  <img align="center" alt="Coding GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480px"/>
 </p>
 
 <!-- Social Media Links -->
